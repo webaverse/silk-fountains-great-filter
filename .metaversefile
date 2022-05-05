@@ -1,4 +1,5 @@
 {
   "name": "silk fountains great filter",
+  "description": "silk fountaion filter",
   "start_url": "index.js"
 }
